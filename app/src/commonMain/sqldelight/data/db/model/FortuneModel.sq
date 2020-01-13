@@ -1,0 +1,10 @@
+CREATE TABLE Fortune(
+fortune_id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+fortune TEXT NOT NULL
+);
+
+insertItem:
+INSERT OR REPLACE INTO Fortune(fortune) VALUES (?);
+
+selectAll:
+SELECT * FROM Fortune;

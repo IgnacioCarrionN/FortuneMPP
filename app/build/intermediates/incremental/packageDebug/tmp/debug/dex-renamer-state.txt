@@ -1,0 +1,4 @@
+#Sun Jan 05 22:02:39 CET 2020
+base.0=D\:\\Kotlin Projects\\MoviesMPP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

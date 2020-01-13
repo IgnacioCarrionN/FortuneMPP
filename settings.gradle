@@ -1,0 +1,5 @@
+rootProject.name = 'MoviesMPP'
+
+include ':app'
+
+enableFeaturePreview('GRADLE_METADATA')

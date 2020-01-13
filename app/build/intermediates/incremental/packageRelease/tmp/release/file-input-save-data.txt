@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 05 15:15:13 CET 2020
+0.base=D\:\\Kotlin Projects\\MoviesMPP\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
